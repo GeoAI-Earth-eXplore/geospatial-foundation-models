@@ -30,6 +30,7 @@ The goal of this repository is to make relevant foundation models easier to disc
 | [AnySat](https://github.com/gastruc/AnySat) | Foundation model designed to learn transferable representations across multiple Earth observation sensors and resolutions. | Research project | Multisensor, multiresolution remote sensing | Open / research |
 | [AgriFM](https://github.com/flyakon/AgriFM) | Foundation model focused on agricultural remote sensing and downstream geospatial applications. | Research project | Agricultural Earth observation | Open / research |
 | [AlphaEarth Foundations](https://deepmind.google/discover/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/) | Earth representation model designed to generate reusable geospatial embeddings for large-scale mapping and analysis. | Google DeepMind | Multisource Earth observation | Research / platform dependent |
+| [FLORO](https://github.com/jorlrodriguezg/floro) | Multimodal geospatial foundation model pretrained across heterogeneous Earth observation data including satellite imagery, SAR, high-resolution imagery, UAV products, and terrain information. | KAUST / collaborators | Multimodal Earth observation / UAV / terrain | Open / research |
 
 ---
 
@@ -39,6 +40,8 @@ The goal of this repository is to make relevant foundation models easier to disc
 |---|---|---|---|---|
 | [TerraMind](https://github.com/ibm/terramind) | Multimodal Earth observation foundation model supporting multiple geospatial data modalities. | IBM / ESA | Multimodal Earth observation | Open / research |
 | [AnySat](https://github.com/gastruc/AnySat) | Sensor-agnostic foundation model for learning representations across different Earth observation sources. | Research project | Multisensor, multiresolution, multitemporal | Open / research |
+| [RemoteCLIP](https://github.com/ChenDelong1999/RemoteCLIP) | Vision-language foundation model for remote sensing supporting zero-shot classification, image-text retrieval, few-shot learning, and object counting. | Research project | Remote sensing imagery / language | Open source / research |
+| [GeoBridge](https://github.com/MiliLab/GeoBridge) | Multi-view foundation model bridging drone, satellite, street-view, and language representations for cross-view geolocation and retrieval. | MiliLab / collaborators | Drone / satellite / street-view / text | Open source / research |
 
 ---
 
